@@ -111,7 +111,7 @@ footer .center hr{
     max-width: 350px;
     padding: 0;
     margin-right:30px;
-    height: auto;
+    height: 100%x;
     background:#95e1d3;
     position: relative;
 }
